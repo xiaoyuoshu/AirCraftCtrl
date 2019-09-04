@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml:3:7-27
+		INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml
+		INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml:5:7-38
+		INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml
+		INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml:4:7-33
+		INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml
+		INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml
+INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml
+		ADDED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml
+		INJECTED from F:\AS\AirCraftCtrl\openCVLibrary340dev\src\main\AndroidManifest.xml
